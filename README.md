@@ -11,3 +11,5 @@
 
 RData files:
 the data sets used (should be recognizable by names and codes in file plc_getData.r)
+
+(in the files, "current"/"now" means "on April 22, 2014")
