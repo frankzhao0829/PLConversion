@@ -1,4 +1,4 @@
-#R code files:
+# R code files:
 1. plc_getData.r: this file contains codes that fetch data sets from Vertica database and format changes;
 
 2. plc_lead_tree.r: this file contains codes that were used to simulate the daily use of PLC. Account attributes are not incorporated in the model in this file because the data sets contain leads with and without account information;
